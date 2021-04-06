@@ -30,7 +30,7 @@
 - Python
 
 ####  Goals
-- Software Developer in Python
+- Software Developer in 'Python'
 - 
 - 
 
